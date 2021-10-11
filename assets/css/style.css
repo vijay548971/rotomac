@@ -121,10 +121,9 @@ h1, h2, h3, h4, h5, h6 {
   }
   #header .logo a{
     font-size: 11px;
-    margin-left: 10px;
   }
   .portfoio .portfolio-item .portfolio-info{
-    width: 370px !important;
+    width: 99.8% !important;
     left: 12px;
   }
 }
@@ -189,7 +188,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
 }
 #header .logo {
-  font-size: 20px;
+  font-size: 30px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -1398,6 +1397,7 @@ section {
 }
 .contact .info {
   width: 100%;
+  margin-bottom: 2em;
 }
 .contact .info i {
   font-size: 20px;
@@ -1426,7 +1426,7 @@ section {
   color: #444444;
 }
 .contact .info .email, .contact .info .phone {
-  margin-top: 40px;
+  /* margin-top: 40px; */
 }
 .contact .php-email-form {
   width: 100%;
